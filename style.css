@@ -99,7 +99,7 @@
   
   body {
     align-items: center;
-    background-image: linear-gradient(236deg, #74ebd5, #acb6e5);
+    background-image: linear-gradient(236deg, #74ebd5, #3d86ec);
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -164,7 +164,7 @@
   }
   
   .key--equal {
-    background-image: linear-gradient(to bottom, #fe886a, #ff7033);
+    background-image: linear-gradient(to bottom, #6a9bfe, #3369ff);
     grid-column: -2;
     grid-row: 2 / span 4;
   }
